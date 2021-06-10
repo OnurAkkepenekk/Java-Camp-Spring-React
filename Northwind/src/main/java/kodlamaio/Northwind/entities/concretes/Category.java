@@ -25,7 +25,6 @@ public class Category {
 	@Column(name = "category_id")
 	private int categoryId;
 	
-	
 	@Column(name = "category_name")
 	private String categoryName;
 	
